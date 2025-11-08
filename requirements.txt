@@ -1,0 +1,8 @@
+mkdocs
+pip
+pytest
+python-dotenv
+ruff
+
+scikit-learn==1.5.1
+pandas==2.2.2
